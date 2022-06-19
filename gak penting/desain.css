@@ -75,7 +75,7 @@ h2 {
     font-family: 'Abel', sans-serif;
     font-weight: 800px;
     font-size: 45px;
-    margin-bottom: 2px;
+    margin-bottom: 1px;
     color: #47B5FF;
     width: 100%;
     line-height: 50px;
@@ -84,7 +84,12 @@ h2 {
 .tengah {
     text-align: center;
     width: 100%;
+    margin: 1px;
 
+}
+
+#gambar-1 {
+margin: 20px;
 }
 
 
